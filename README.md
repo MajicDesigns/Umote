@@ -7,4 +7,4 @@ The device has 3 modes - Program, Clear and Run mode.
 
 More information at [Arduino++](https://arduinoplusplus.wordpress.com/2015/11/22/large-button-remote-control-part-1-design-and-prototyping/)
 
-Uses IRLib found at the IRLib [distrubution](https://github.com/cyborg5/IRLib/)
+Uses IRLib found at the IRLib [distribution](https://github.com/cyborg5/IRLib/)
